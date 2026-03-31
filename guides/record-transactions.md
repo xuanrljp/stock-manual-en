@@ -11,5 +11,5 @@ Tap a holding to open its detail page. Three buttons — **Buy**, **Sell**, and 
 > **Tip:** Purchase cost is calculated using the **weighted average method**. After each buy, the system automatically recalculates the average cost price (including fees).
 
 <br>
-
+    <div align="left"><figure><img src="../.gitbook/assets/stock_account_en.png" alt="" width="375"><figcaption></figcaption></figure></div>
 <br>

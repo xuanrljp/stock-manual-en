@@ -12,7 +12,7 @@ Key features of Stock Asset Management:
 2. Profit & Loss Report — Automatically calculate unrealized P\&L and return rate, with detailed realized P\&L reports
 3. Automatic Price Updates — Fetch the latest market prices automatically after each market close. Supports US, Japan, Hong Kong, Taiwan, Koean stocks, etc.
 4. Asset Overview — Stock assets are included alongside other accounts in the overall asset summary
-
+    <div align="left"><figure><img src="../.gitbook/assets/stock_account_en.png" alt="" width="375"><figcaption></figcaption></figure></div>
 ## User Guide
 
 {% content-ref url="guides/create-stock-account.md" %}
