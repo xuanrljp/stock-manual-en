@@ -1,7 +1,5 @@
 ---
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/Hseb2PqmAac4uS7KJtxo/
+metaLinks: {}
 ---
 
 # Stock Asset Management — User Guide
@@ -11,11 +9,9 @@ metaLinks:
 Key features of Stock Asset Management:
 
 1. Position Management — Record buy, sell, and dividend transactions to easily track each holding
-2. Profit & Loss Report — Automatically calculate unrealized P&L and return rate, with detailed realized P&L reports
+2. Profit & Loss Report — Automatically calculate unrealized P\&L and return rate, with detailed realized P\&L reports
 3. Automatic Price Updates — Fetch the latest market prices automatically after each market close. Supports US, Japan, Hong Kong, Taiwan, Koean stocks, etc.
 4. Asset Overview — Stock assets are included alongside other accounts in the overall asset summary
-
-    <div align="left"><img src=".gitbook/assets/stock_account_detail_tw.PNG" alt="list" width="375"></div>
 
 ## User Guide
 
